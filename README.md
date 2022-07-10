@@ -8,6 +8,10 @@ simple database based on LSM, previously on [simple-hash-db](https://github.com/
 - [TinyKvStore](https://github.com/x-hansong/TinyKvStore)
 - [SSTable](https://www.scylladb.com/glossary/sstable/)
 
+## required
+
+![go1.18](https://badgen.net/badge/go/1.18/red?icon=github)
+
 ## feature
 
 - `SSTable` use SSTable instead of single file for higher compact performance
